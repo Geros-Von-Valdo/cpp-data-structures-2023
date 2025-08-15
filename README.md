@@ -1,6 +1,6 @@
 # C++ Data Structures (2023)
 
-Repositório com um compilado de **exercícios de C++** realizados durante a faculdade, focando em **estruturas de dados e algoritmos**. Ideal para estudo e referência futura.
+Repositório com um compilado de **exercícios de C++** realizados durante a faculdade, focando em **estruturas de dados e algoritmos**. Para estudo e referência futura.
 
 ## Conteúdo
 
